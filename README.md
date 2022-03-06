@@ -1,4 +1,4 @@
-[![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://chiranjeev-droid.github.io)
+[![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](http://chiranjeev.000webhostapp.com/)
 <h1 align="center">Hi 👋, I'm Chiranjeev Vishnoi</h1>
 <h3 align="center">Full Stack Web Developer | Coder | Learner - Loves to Explore Different Fields & Domains</h3>
 <br>
