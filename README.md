@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
 - 🌱 I’m currently exploring the depths of **Data Structures and Algorithms**
 
-- 👨‍💻 My portfolio of projects can be found at  [chiranjeev.net](chiranjeev.net)
+- 👨‍💻 My portfolio of projects can be found at  [chiranjeev.net](https://www.chiranjeev.net)
 
 - 💬 I specialize in **Web Development** and I am always open to discussing new projects and collaborations
 
