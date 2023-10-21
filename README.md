@@ -1,8 +1,25 @@
-[![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](http://chiranjeev.000webhostapp.com/)
+
+[![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2944&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://www.chiranjeev.net)
+
 <h1 align="center">🚀 Greetings, I'm Chiranjeev Vishnoi</h1>
-<h3 align="center">Full Stack Web Developer | Coder | Innovator - Passionate about creating impactful digital solutions</h3>
+<h3 align="center">Full Stack Developer | Pre Final Year Student at Vit Vellore</h3>
+     <div align="center ">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranjeev-vishnoi-345b481b0) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chiranjeevvish3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiru_vishnoi) 
+</div>
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiranjeev-droid/Chiranjeev-droid/0d92ef41189453568ec2929a7a56d5653cd67623/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiranjeev-droid/Chiranjeev-droid/0d92ef41189453568ec2929a7a56d5653cd67623/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Chiranjeev-droid/Chiranjeev-droid/0d92ef41189453568ec2929a7a56d5653cd67623/github-contribution-grid-snake.svg" />
+</div>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
+<div>
+<img align="right" alt="Coding" width="400" src="https://github.com/Chiranjeev-droid/Chiranjeev-droid/assets/66114276/8e203c67-3d51-491b-92e8-9199aa3f0a2e">
+
+
+
 - 🌱 I’m currently exploring the depths of **Data Structures and Algorithms**
 
 - 👨‍💻 My portfolio of projects can be found at  [chiranjeev.net](https://www.chiranjeev.net)
@@ -11,25 +28,39 @@
 
 - 📫 Connect with me at **somu209e@gmail.com**
 
-
+</div>
 <!--  -->
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<a href="https://linkedin.com/in/chiranjeev-vishnoi-345b481b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeev-vishnoi-345b481b0" height="30" width="40" /></a>
-<a href="https://instagram.com/chiru_vishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiru_vishnoi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@somu209e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@somu209e" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/somu209e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somu209e" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<somu209e>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<somu209e>/profile" height="30" width="40" /></a>
-</p>
-<br>
+ 
 
+<!---![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)  --->
+
+<br>
+<!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjeev-droid&show_icons=true&locale=en&layout=compact" alt="chiranjeev-droid" /></p>
-<br><br><br><br><br><br><br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-droid&" alt="chiranjeev-droid" /></p>
+<br><br><br><br><br><br><br> --->
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjeev-droid&show_icons=true&locale=en" alt="chiranjeev-droid" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+  <br>
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+</div>
+<br>
+<div align="center">
+  <p><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-droid" alt="chiranjeev-droid" /></p>
+  <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=chiranjeev-droid&show_icons=true&locale=en" alt="chiranjeev-droid" /></p>
+</div>
 
