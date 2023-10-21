@@ -1,6 +1,6 @@
 
-[![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2944&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://www.chiranjeev.net)
-
+<!--[![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2944&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://www.chiranjeev.net)
+-->
 <h1 align="center">🚀 Greetings, I'm Chiranjeev Vishnoi</h1>
 <h3 align="center">Full Stack Developer | Pre Final Year Student at Vit Vellore</h3>
      <div align="center ">
